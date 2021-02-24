@@ -84,3 +84,6 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/hello-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=hello-app" />
 </a>
+<a href="https://github.com/KennyOliver/ml-recog-p-n-phrases">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=ml-recog-p-n-phrases" />
+</a>
