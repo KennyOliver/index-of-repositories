@@ -3,6 +3,19 @@ All my repositories organised.
 
 ## Recommended
 
+## File Databases
+<a href="https://github.com/KennyOliver/fruit-db-search-engine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=fruit-db-search-engine" />
+</a>
+<a href="https://github.com/KennyOliver/searchable-csv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=searchable-csv" />
+</a>
+<a href="https://github.com/KennyOliver/bookshop-inventory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=bookshop-inventory" />
+</a>
+<a href="https://github.com/KennyOliver/csv-leaderboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=csv-leaderboard" />
+</a>
 
 ## Tools
 <a href="https://github.com/KennyOliver/basic-calculator">
@@ -13,6 +26,12 @@ All my repositories organised.
 </a>
 <a href="https://github.com/KennyOliver/file-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
+</a>
+<a href="https://github.com/KennyOliver/bubble-binary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=bubble-binary" />
+</a>
+<a href="https://github.com/KennyOliver/merge-sort">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=merge-sort" />
 </a>
 
 ## Fun
@@ -41,3 +60,15 @@ All my repositories organised.
 </a>
 
 ## Extra
+<a href="https://github.com/KennyOliver/cpp-variables">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=cpp-variables" />
+</a>
+<a href="https://github.com/KennyOliver/sum-of-inputs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=sum-of-inputs" />
+</a>
+<a href="https://github.com/KennyOliver/count-to-ten">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=count-to-ten" />
+</a>
+<a href="https://github.com/KennyOliver/hello-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=hello-app" />
+</a>
