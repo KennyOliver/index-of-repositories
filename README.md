@@ -25,14 +25,19 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/rock-paper-scissors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=rock-paper-scissors" />
 </a>
-
-
-## Personal
-<a href="https://github.com/KennyOliver/KennyOliver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=Kennyoliver" />
+<a href="https://github.com/KennyOliver/compsci-terms-quiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=compsci-terms-quiz" />
 </a>
-<a href="https://github.com/KennyOliver/kennyoliver.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=kennyoliver.github.io" />
+
+## User Login
+<a href="https://github.com/KennyOliver/hash-authentication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=hash-authentication" />
+</a>
+<a href="https://github.com/KennyOliver/user-login">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=user-login" />
+</a>
+<a href="https://github.com/KennyOliver/input-sanitation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=input-sanitation" />
 </a>
 
 ## Extra
