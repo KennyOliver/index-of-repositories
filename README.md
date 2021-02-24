@@ -2,6 +2,18 @@
 All my repositories organised.
 
 ## Recommended
+<a href="https://github.com/KennyOliver/searchable-csv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=searchable-csv" />
+</a>
+<a href="https://github.com/KennyOliver/file-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
+</a>
+<a href="https://github.com/KennyOliver/school-spree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=school-spree" />
+</a>
+<a href="https://github.com/KennyOliver/user-login">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=user-login" />
+</a>
 
 ## File Databases
 <a href="https://github.com/KennyOliver/fruit-db-search-engine">
