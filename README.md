@@ -1,7 +1,7 @@
 # Index of Repositories
 All my repositories organised.
 
-## Recommended
+## :star2: Recommended
 <a href="https://github.com/KennyOliver/searchable-csv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=searchable-csv" />
 </a>
@@ -21,7 +21,7 @@ All my repositories organised.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
 </a>
 
-## File Databases
+## :file_cabinet: File Databases
 <a href="https://github.com/KennyOliver/easter-egg-delivery-db">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-delivery-db" />
 </a>
@@ -38,7 +38,7 @@ All my repositories organised.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=csv-leaderboard" />
 </a>
 
-## Tools
+## :hammer_and_wrench: Tools
 <a href="https://github.com/KennyOliver/basic-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=basic-calculator" />
 </a>
@@ -55,7 +55,7 @@ All my repositories organised.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=merge-sort" />
 </a>
 
-## Fun
+## :jigsaw: Fun
 <a href="https://github.com/KennyOliver/school-spree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=school-spree" />
 </a>
@@ -72,7 +72,7 @@ All my repositories organised.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
 </a>
 
-## User Login
+## :busts_in_silhouette: User Login
 <a href="https://github.com/KennyOliver/hash-authentication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=hash-authentication" />
 </a>
@@ -83,7 +83,7 @@ All my repositories organised.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=input-sanitation" />
 </a>
 
-## Extra
+## :soap: Extra
 <a href="https://github.com/KennyOliver/cpp-variables">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=cpp-variables" />
 </a>
