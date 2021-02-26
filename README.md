@@ -28,8 +28,8 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/fruit-db-search-engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=fruit-db-search-engine" />
 </a>
-<a href="https://github.com/KennyOliver/bookshop-inventory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=bookshop-inventory" />
+<a href="https://github.com/KennyOliver/library-inventory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=library-inventory" />
 </a>
 <a href="https://github.com/KennyOliver/csv-leaderboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=csv-leaderboard" />
@@ -64,6 +64,9 @@ All my repositories organised.
 </a>
 <a href="https://github.com/KennyOliver/compsci-terms-quiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=compsci-terms-quiz" />
+</a>
+<a href="https://github.com/KennyOliver/walk-in-the-woods">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
 </a>
 
 ## User Login
