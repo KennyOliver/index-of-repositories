@@ -17,6 +17,9 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/user-login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=user-login" />
 </a>
+<a href="https://github.com/KennyOliver/walk-in-the-woods">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
+</a>
 
 ## File Databases
 <a href="https://github.com/KennyOliver/easter-egg-delivery-db">
