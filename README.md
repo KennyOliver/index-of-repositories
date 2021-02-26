@@ -5,6 +5,9 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/searchable-csv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=searchable-csv" />
 </a>
+<a href="https://github.com/KennyOliver/easter-egg-delivery-db">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-delivery-db" />
+</a>
 <a href="https://github.com/KennyOliver/file-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
 </a>
@@ -16,6 +19,9 @@ All my repositories organised.
 </a>
 
 ## File Databases
+<a href="https://github.com/KennyOliver/easter-egg-delivery-db">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-delivery-db" />
+</a>
 <a href="https://github.com/KennyOliver/fruit-db-search-engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=fruit-db-search-engine" />
 </a>
