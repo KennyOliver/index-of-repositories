@@ -73,9 +73,6 @@ All my repositories organised.
 </a>
 
 ## :busts_in_silhouette: User Login
-<a href="https://github.com/KennyOliver/hash-authentication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=hash-authentication" />
-</a>
 <a href="https://github.com/KennyOliver/user-login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=user-login" />
 </a>
