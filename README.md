@@ -1,5 +1,5 @@
 # Index of Repositories
-All my repositories organised.
+My repositories organised.
 
 ## :star2: Recommended
 <a href="https://github.com/KennyOliver/searchable-csv">
