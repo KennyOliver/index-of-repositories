@@ -48,6 +48,9 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/file-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
 </a>
+<a href="https://github.com/KennyOliver/vivid-hues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=vivid-hues" />
+</a>
 <a href="https://github.com/KennyOliver/bubble-binary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=bubble-binary" />
 </a>
