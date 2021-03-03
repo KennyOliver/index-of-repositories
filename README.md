@@ -45,14 +45,14 @@ All my repositories organised.
 <a href="https://github.com/KennyOliver/char-unicode-converter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=char-unicode-converter" />
 </a>
-<a href="https://github.com/KennyOliver/file-viewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
-</a>
 <a href="https://github.com/KennyOliver/vivid-hues">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=vivid-hues" />
 </a>
 <a href="https://github.com/KennyOliver/bubble-binary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=bubble-binary" />
+</a>
+<a href="https://github.com/KennyOliver/file-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
 </a>
 <a href="https://github.com/KennyOliver/merge-sort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=merge-sort" />
