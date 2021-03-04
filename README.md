@@ -8,8 +8,8 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/walk-in-the-woods">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
 </a>
-<a href="https://github.com/KennyOliver/easter-egg-delivery-db">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-delivery-db" />
+<a href="https://github.com/KennyOliver/easter-egg-orders-db">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-orders-db" />
 </a>
 <a href="https://github.com/KennyOliver/user-login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=user-login" />
@@ -22,8 +22,8 @@ My repositories organised.
 </a>
 
 ## :file_cabinet: File Databases
-<a href="https://github.com/KennyOliver/easter-egg-delivery-db">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-delivery-db" />
+<a href="https://github.com/KennyOliver/easter-egg-orders-db">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-orders-db" />
 </a>
 <a href="https://github.com/KennyOliver/searchable-csv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=searchable-csv" />
