@@ -27,15 +27,16 @@ My repositories organised.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphic-design" />
 </a>
 
-## :bricks: Website Elements
+<details><summary><b>:bricks: Website Elements</b></summary>
 <a href="https://github.com/KennyOliver/animated-profile-badge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=animated-profile-badge" />
 </a>
 <a href="https://github.com/KennyOliver/neuomorphic-design">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphic-design" />
 </a>
+</details>
 
-## :file_cabinet: File Databases
+<details><summary><b>:file_cabinet: File Databases</b></summary>
 <a href="https://github.com/KennyOliver/easter-egg-orders-db">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=easter-egg-orders-db" />
 </a>
@@ -51,8 +52,9 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/csv-leaderboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=csv-leaderboard" />
 </a>
+</details>
 
-## :hammer_and_wrench: Tools
+<details><summary><b>:hammer_and_wrench: Tools</b></summary>
 <a href="https://github.com/KennyOliver/basic-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=basic-calculator" />
 </a>
@@ -71,8 +73,9 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/merge-sort">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=merge-sort" />
 </a>
+</details>
 
-## :jigsaw: Fun
+<details><summary><b>:jigsaw: Fun</b></summary>
 <a href="https://github.com/KennyOliver/school-spree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=school-spree" />
 </a>
@@ -88,16 +91,18 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/walk-in-the-woods">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
 </a>
+</details>
 
-## :busts_in_silhouette: User Login
+<details><summary><b>:busts_in_silhouette: User Login</b></summary>
 <a href="https://github.com/KennyOliver/user-login">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=user-login" />
 </a>
 <a href="https://github.com/KennyOliver/input-sanitation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=input-sanitation" />
 </a>
+</details>
 
-## :soap: Extra
+<details><summary><b>:soap: Extra</b></summary>
 <a href="https://github.com/KennyOliver/cpp-variables">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=cpp-variables" />
 </a>
@@ -113,3 +118,4 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/ml-recog-p-n-phrases">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=ml-recog-p-n-phrases" />
 </a>
+</details>
