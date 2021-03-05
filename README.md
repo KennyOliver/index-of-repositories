@@ -20,6 +20,20 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/file-viewer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=file-viewer" />
 </a>
+<a href="https://github.com/KennyOliver/animated-profile-badge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=animated-profile-badge" />
+</a>
+<a href="https://github.com/KennyOliver/neuomorphic-design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphic-design" />
+</a>
+
+## :bricks: Website Elements
+<a href="https://github.com/KennyOliver/animated-profile-badge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=animated-profile-badge" />
+</a>
+<a href="https://github.com/KennyOliver/neuomorphic-design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphic-design" />
+</a>
 
 ## :file_cabinet: File Databases
 <a href="https://github.com/KennyOliver/easter-egg-orders-db">
