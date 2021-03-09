@@ -23,16 +23,16 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/animated-profile-badge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=animated-profile-badge" />
 </a>
-<a href="https://github.com/KennyOliver/neuomorphic-design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphic-design" />
+<a href="https://github.com/KennyOliver/neuomorphia.css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphia.css" />
 </a>
 
 <details><summary><b>:bricks: Website Elements</b></summary>
 <a href="https://github.com/KennyOliver/animated-profile-badge">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=animated-profile-badge" />
 </a>
-<a href="https://github.com/KennyOliver/neuomorphic-design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphic-design" />
+<a href="https://github.com/KennyOliver/neuomorphia.css">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=neuomorphia.css" />
 </a>
 </details>
 
