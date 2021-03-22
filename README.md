@@ -61,11 +61,14 @@ My repositories organised.
 <a href="https://github.com/KennyOliver/basic-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=basic-calculator" />
 </a>
+  <a href="https://github.com/KennyOliver/boolean-expression-calc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=boolean-expression-calc" />
+</a>
 <a href="https://github.com/KennyOliver/char-unicode-converter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=char-unicode-converter" />
 </a>
-<a href="https://github.com/KennyOliver/vivid-hues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=vivid-hues" />
+<a href="https://github.com/KennyOliver/VividHues">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=VividHues" />
 </a>
 <a href="https://github.com/KennyOliver/bubble-binary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=bubble-binary" />
@@ -96,6 +99,9 @@ My repositories organised.
 </a>
 <a href="https://github.com/KennyOliver/walk-in-the-woods">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=walk-in-the-woods" />
+</a>
+    <a href="https://github.com/KennyOliver/boolean-expression-quiz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=radical&hide_border=true&username=KennyOliver&repo=boolean-expression-quiz" />
 </a>
 </details>
 
